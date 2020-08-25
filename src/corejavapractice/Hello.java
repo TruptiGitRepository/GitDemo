@@ -24,6 +24,9 @@ public class Hello {
 		 // System.out.println("toUpperCase  " + s3.toUpperCase());
 		 // System.out.println("toLowersrCase  " + s3.toLowerCase());
 		  System.out.println("CharAt()  " + s3.charAt(4));
+		  System.out.println("For Git DEMO");
+		  System.out.println("For Git DEMO");
+		  System.out.println("For Git DEMO");
 	}
 
 }
