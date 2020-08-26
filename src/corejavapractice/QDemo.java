@@ -14,8 +14,7 @@ public class QDemo {
 		System.out.println("The REMOVE head of queue  : "+ queue.poll());
 		System.out.println("The new  head of queue is : "+ queue.peek());
 		//changes for GIT
-		 System.out.println("From GitStuff");
-		 System.out.println("From GitStuff");
+		System.out.println("Adding today @8/26");
 		
         
 	}

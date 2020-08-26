@@ -28,9 +28,8 @@ public class Hello {
 		  System.out.println("For Git DEMO");
 		  System.out.println("For Git DEMO");
 		  // adding this changes from my side
-		  System.out.println("From GitStuff");
-		  System.out.println("From GitStuff");
-		  System.out.println("From GitStuff");
+		  System.out.println("Adding today @8/26");
+		  System.out.println("Adding today @8/26");
 	}
 
 }
