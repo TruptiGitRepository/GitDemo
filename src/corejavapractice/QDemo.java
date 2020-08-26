@@ -13,10 +13,8 @@ public class QDemo {
 		System.out.println("The head of queue is : "+ queue.peek());
 		System.out.println("The REMOVE head of queue  : "+ queue.poll());
 		System.out.println("The new  head of queue is : "+ queue.peek());
-		//changes for GIT
-		System.out.println("Adding today @8/26");
-		System.out.println("I am in develope branch ");
-		System.out.println("I am in develope branch ");
+		
+		
 		////
 		System.out.println("This is another push in develop for project completion");
 		System.out.println("This is another push in develop for project completion");
