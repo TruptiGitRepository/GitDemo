@@ -18,6 +18,7 @@ public class QDemo {
 		////
 		System.out.println("This is another push in develop for project completion");
 		System.out.println("This is another push in develop for project completion");
+		System.out.println("To see merging in master");
 		
         
 	}
